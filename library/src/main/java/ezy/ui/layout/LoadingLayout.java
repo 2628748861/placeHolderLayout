@@ -125,7 +125,6 @@ public class LoadingLayout extends FrameLayout {
 
     public LoadingLayout(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
-
         mInflater = LayoutInflater.from(context);
         TypedArray a = context.obtainStyledAttributes(attrs, R.styleable.LoadingLayout, defStyleAttr,0);
         mEmptyResId = a.getResourceId(R.styleable.LoadingLayout_emptyResId, mEmptyResId);
@@ -133,7 +132,23 @@ public class LoadingLayout extends FrameLayout {
         mErrorResId = a.getResourceId(R.styleable.LoadingLayout_errorResId, mErrorResId);
         a.recycle();
 
+
     }
+
+    @Override
+    protected void onFinishInflate() {
+        super.onFinishInflate();
+        if (getChildCount() == 0) {
+            return;
+        }
+        if (getChildCount() > 1) {
+            removeViews(1, getChildCount() - 1);
+        }
+        View view = getChildAt(0);
+        setContentView(view);
+        showLoading();
+    }
+
     private void setContentView(View view) {
         mContentId = view.getId();
         mLayouts.put(mContentId, view);
