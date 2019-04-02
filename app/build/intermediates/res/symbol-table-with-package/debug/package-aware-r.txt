@@ -755,9 +755,6 @@ integer abc_config_activityShortDur
 integer cancel_button_image_alpha
 integer config_tooltipAnimTime
 integer status_bar_notification_info_maxnum
-layout _loading_layout_empty
-layout _loading_layout_error
-layout _loading_layout_loading
 layout abc_action_bar_title_item
 layout abc_action_bar_up_container
 layout abc_action_menu_item_layout
@@ -790,6 +787,9 @@ layout activity_list
 layout activity_loading
 layout activity_main
 layout ayout_empty
+layout default_layout_empty
+layout default_layout_error
+layout default_layout_loading
 layout layout_error
 layout layout_loading
 layout notification_action

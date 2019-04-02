@@ -43,8 +43,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(v.getContext(), "retry" , Toast.LENGTH_LONG).show();
             }
         });
-//        vLoading.showContent();
-
         findViewById(R.id.list).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

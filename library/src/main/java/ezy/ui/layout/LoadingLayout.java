@@ -42,9 +42,9 @@ public class LoadingLayout extends FrameLayout {
 
     LayoutInflater mInflater;
     View.OnClickListener mRetryListener;
-    static int mEmptyResId = NO_ID;
-    static int mLoadingResId = NO_ID;
-    static int mErrorResId = NO_ID;
+    static int mEmptyResId = R.layout.default_layout_empty;
+    static int mLoadingResId = R.layout.default_layout_loading;
+    static int mErrorResId = R.layout.default_layout_error;
     int mContentId = NO_ID;
     Map<Integer, View> mLayouts = new HashMap<>();
 
@@ -178,6 +178,16 @@ public class LoadingLayout extends FrameLayout {
             return mLayouts.get(layoutId);
         }
         View layout = mInflater.inflate(layoutId, null, false);
+        if(mErrorResId==layoutId)
+        {
+            layout.setOnClickListener(new OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    if(mRetryListener!=null)
+                        mRetryListener.onClick(v);
+                }
+            });
+        }
         layout.setVisibility(GONE);
         addView(layout);
         mLayouts.put(layoutId, layout);

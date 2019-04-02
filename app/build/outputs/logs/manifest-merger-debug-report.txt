@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-MERGED from [:library] E:\project\loadinglayout\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [:library] E:\project\placeHolderLayout\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\008117d361d93207a6bfd963171ea357\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\517ddf0b408658a06e5b3266b6bdcde5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\442e335bb2a2874da98967a817510467\AndroidManifest.xml:17:1-22:12
@@ -32,25 +32,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Administrator\.gr
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\44401c9aacd66633d3c2e52cc9670778\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d4a8205c23055753f61e21f375ad032\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0d96ad3a620e147c2f0f2e1128b55641\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:11-43
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:11-43
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:2:1-22:12
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:3:11-69
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:3:11-69
 application
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7167f4071408789b5a38eb59829fb8d7\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7167f4071408789b5a38eb59829fb8d7\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\361063536b6b5365a5a35e8ad3788195\AndroidManifest.xml:22:5-23:19
@@ -58,43 +58,43 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Administra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\7167f4071408789b5a38eb59829fb8d7\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:9:9-41
 	android:icon
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:10:9-40
 	android:name
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:6:9-38
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:6:9-38
 activity#ezy.demo.loadinglayout.MainActivity
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:11:19-47
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:13:17-68
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:13:17-68
 	android:name
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:15:17-76
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:15:17-76
 	android:name
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:15:27-74
 activity#ezy.demo.loadinglayout.ListActivity
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:18:9-50
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:18:9-50
 	android:name
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:18:19-47
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:18:19-47
 activity#ezy.demo.loadinglayout.LoadingActivity
-ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:19:9-53
+ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:19:9-53
 	android:name
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml:19:19-50
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml:19:19-50
 uses-sdk
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-MERGED from [:library] E:\project\loadinglayout\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
-MERGED from [:library] E:\project\loadinglayout\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+MERGED from [:library] E:\project\placeHolderLayout\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] E:\project\placeHolderLayout\library\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\008117d361d93207a6bfd963171ea357\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\008117d361d93207a6bfd963171ea357\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\517ddf0b408658a06e5b3266b6bdcde5\AndroidManifest.xml:20:5-44
@@ -149,13 +149,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7d4a8205c23055753f61e21f375ad032\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0d96ad3a620e147c2f0f2e1128b55641\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\0d96ad3a620e147c2f0f2e1128b55641\AndroidManifest.xml:20:5-44
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-		ADDED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
-		INJECTED from E:\project\loadinglayout\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+		ADDED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml
+		INJECTED from E:\project\placeHolderLayout\app\src\main\AndroidManifest.xml

@@ -696,9 +696,6 @@ integer abc_config_activityShortDur
 integer cancel_button_image_alpha
 integer config_tooltipAnimTime
 integer status_bar_notification_info_maxnum
-layout _loading_layout_empty
-layout _loading_layout_error
-layout _loading_layout_loading
 layout abc_action_bar_title_item
 layout abc_action_bar_up_container
 layout abc_action_menu_item_layout
@@ -727,6 +724,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout default_layout_empty
+layout default_layout_error
+layout default_layout_loading
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
